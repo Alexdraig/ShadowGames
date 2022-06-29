@@ -1,2 +1,2 @@
 # ShadowGames
-Proyecto de Curso realizo en PHP
+Proyecto de Curso realizado en PHP
